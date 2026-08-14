@@ -420,27 +420,6 @@ I'm interested in opportunities and collaborations involving:
 
 📍 **Nairobi, Kenya**
 
-💼 **LinkedIn:** `[Add your LinkedIn URL]`  
-📧 **Email:** `[Add your professional email]`  
-🌐 **Portfolio:** `[Add portfolio URL if available]`
-
----
-
-# 📊 GitHub Stats
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)
-
----
-
-# 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
-
----
 
 ### ⚡ Engineer by training. Builder by curiosity.
 
